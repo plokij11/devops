@@ -1,0 +1,13 @@
+{
+  "name": "devops1",
+  "version": "1.0.0",
+  "description": "node.js on docker",
+  "author": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
